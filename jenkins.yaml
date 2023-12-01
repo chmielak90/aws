@@ -1,0 +1,3 @@
+template-file-path: template-jenkins.yaml
+parameters: {}
+tags: {}
